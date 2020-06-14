@@ -1,7 +1,7 @@
 {
-  "name": "estradeiro-amigos",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
+    "name": "Estradeiro Melhor Amigo!",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "angular"
 }

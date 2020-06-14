@@ -1,0 +1,15 @@
+:host {
+    & .message {
+        padding: 20px;
+        flex-direction: column;
+        display: flex;
+        & ol {
+            & li {
+                margin-bottom: 15px;
+            }
+        }
+        & .how-to {
+            text-align: center;
+        }
+    }
+}

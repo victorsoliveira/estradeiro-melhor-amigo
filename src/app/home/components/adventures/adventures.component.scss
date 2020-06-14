@@ -1,0 +1,14 @@
+:host {
+    .screen {
+        padding: 20px;
+        align-items: center;
+        flex-direction: column;
+        display: flex;
+        h3 {
+            font-weight: 700;
+        }
+        p {
+            text-align: center;
+        }
+    }
+}
