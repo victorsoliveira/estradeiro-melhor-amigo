@@ -1,0 +1,7 @@
+{
+  "name": "estradeiro-amigos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
